@@ -1,7 +1,11 @@
 header{
     text-align: center;
+    background-image: url(listacompra.jpg);
 }
 
 section{
     display: flex;
+}
+body{
+    background-image: url(listacompra.jpg);
 }
